@@ -21,44 +21,34 @@ $ actively_learning
 
 ## Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Red%20Hat-RH124-ff6fb5?style=for-the-badge&logo=redhat&logoColor=white&labelColor=3a86ff"/>
-<img src="https://img.shields.io/badge/Red%20Hat-RH134-ff6fb5?style=for-the-badge&logo=redhat&logoColor=white&labelColor=3a86ff"/>
-<img src="https://img.shields.io/badge/CCNA-Cisco%20Networking-ff6fb5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=3a86ff"/>
-<img src="https://img.shields.io/badge/DECAMP-Cloud%20Security-ff6fb5?style=for-the-badge&logo=cloudsmith&logoColor=white&labelColor=3a86ff"/>
-<img src="https://img.shields.io/badge/Cambridge-FCE%20B2-ff6fb5?style=for-the-badge&logo=cambridgeenglish&logoColor=white&labelColor=3a86ff"/>
-
-</div>
+| Certification | Issuer | Date |
+|---|---|---|
+| RH124 – Red Hat System Administration I | Red Hat | May 2026 |
+| RH134 – Red Hat System Administration II | Red Hat | May 2026 |
+| CCNA: Introduction to Networks | Cisco | 2025 |
+| CCNA: Switching, Routing, and Wireless Essentials | Cisco | 2025 |
+| Applied Web Application Security (DECAMP Erasmus+ Course) | Metropolia University of Applied Sciences | Aug 2025 |
+| Cyber Security 101 | TryHackMe | 2025 |
+| Python Programming 101 | Cisco | 2025 |
+| First Certificate in English (FCE), B2 | Cambridge | — |
 
 <br>
 
 ## Stack
 
-**Security**
-<br>
-<img src="https://img.shields.io/badge/Ghidra-3a86ff?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-3a86ff?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-3a86ff?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Volatility3-3a86ff?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-3a86ff?style=flat-square&logoColor=white"/>
-
-**Languages**
+**Languages** (based on project usage)
 <br>
 <img src="https://img.shields.io/badge/Python-ff6fb5?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ff6fb5?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-ff6fb5?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/x86%20Assembly-ff6fb5?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ff6fb5?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-ff6fb5?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-ff6fb5?style=flat-square&logoColor=white"/>
 
-**Cloud & DevOps**
+**Skills**
 <br>
-<img src="https://img.shields.io/badge/Docker-3a86ff?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-3a86ff?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-3a86ff?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-3a86ff?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-3a86ff?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-3a86ff?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-3a86ff?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Fundamentals-3a86ff?style=flat-square&logoColor=white"/>
 
 <br><br>
 
@@ -86,10 +76,6 @@ $ actively_learning
 | **Network Traffic Music Composer** | React/FastAPI/Tone.js app sonifying live network traffic — presented at SCSS 2026 |
 
 <br>
-
-## Writing
-
-CTF write-ups and research notes on [Medium](#).
 
 <br>
 
