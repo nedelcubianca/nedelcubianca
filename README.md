@@ -4,11 +4,11 @@
 
 </div>
 
-Systems Engineering student at Politehnica University of Bucharest, building toward a career in cybersecurity with a Blue Team focus. Active on Hack The Box, working through challenges in security monitoring, alert triage, and incident response. Co-authored and presented research on AI-orchestrated cyber threats at the NATO STO IST-238 Research Specialists' Meeting in Wachtberg, Germany.
+Third-year Systems Engineering student at Politehnica University of Bucharest, building toward a career in cybersecurity with a Blue Team focus. Active on Hack The Box and Try Hack Me, working through challenges in security monitoring, alert triage, and incident response. Co-authored and presented research on AI-orchestrated cyber threats at the NATO STO IST-238 Research Specialists' Meeting in Wachtberg, Germany (2026).
 
 <br>
 
-## Current state
+## Currently
 
 - **Internship** at ICI București (National Institute for R&D in Informatics), researching Post-Quantum Cryptography and simulating Quantum Key Distribution protocols
 - **Studying** DevOps and cloud infrastructure — Docker, Kubernetes, AWS, Terraform — alongside my security work, aiming for roles that bridge both
@@ -27,13 +27,12 @@ Systems Engineering student at Politehnica University of Bucharest, building tow
 <img src="https://img.shields.io/badge/Applied%20Web%20App%20Security-ff6fb5?style=for-the-badge&logoColor=white&labelColor=3a86ff"/>
 <img src="https://img.shields.io/badge/Cloud%20Computing%20Security-ff6fb5?style=for-the-badge&logoColor=white&labelColor=3a86ff"/>
 <img src="https://img.shields.io/badge/Cyber%20Security%20101-ff6fb5?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=3a86ff"/>
-<img src="https://img.shields.io/badge/Red%20Teaming%20%26%20Pentesting-ff6fb5?style=for-the-badge&logo=defcamp&logoColor=white&labelColor=3a86ff"/>
 
 </div>
 
 <br>
 
-## Stack
+## Technologies Stack
 
 **Security**
 <br>
@@ -42,31 +41,18 @@ Systems Engineering student at Politehnica University of Bucharest, building tow
 <img src="https://img.shields.io/badge/Burp%20Suite-3a86ff?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ghidra-3a86ff?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Volatility3-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/KAPE-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali Linux-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Virtualization-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CyberChef-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FTK Imager-3a86ff?style=flat-square&logoColor=white"/>
 
-**Languages**
+**Programming Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-ff6fb5?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ff6fb5?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-ff6fb5?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-ff6fb5?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-ff6fb5?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ff6fb5?style=flat-square&logo=javascript&logoColor=white"/>
-
-**Cloud & DevOps**
-<br>
-<img src="https://img.shields.io/badge/Docker-3a86ff?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-3a86ff?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-3a86ff?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-3a86ff?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-3a86ff?style=flat-square&logo=linux&logoColor=white"/>
-
-<br>
-
-## Writing
-
-CTF write-ups and research notes on [Medium](#).
-
-<br>
 
 <div align="center">
 
