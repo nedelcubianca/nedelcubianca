@@ -4,78 +4,67 @@
 
 </div>
 
-```bash
-$ whoami
-Third-year Systems Engineering student, ACS, Politehnica University of Bucharest
-Cybersecurity intern @ ICI București (previously MGNG Limited, UK defence & security)
-Co-presented at NATO STO IST-238, Wachtberg, Germany
+Systems Engineering student at Politehnica University of Bucharest, building toward a career in cybersecurity with a Blue Team focus. Active on Hack The Box, working through challenges in security monitoring, alert triage, and incident response. Co-authored and presented research on AI-orchestrated cyber threats at the NATO STO IST-238 Research Specialists' Meeting in Wachtberg, Germany.
 
-$ current_focus
-["offensive security", "DFIR", "cloud infrastructure", "DevOps"]
+<br>
 
-$ actively_learning
-["Kubernetes", "Terraform", "AWS"]
-```
+## Current state
+
+- **Internship** at ICI București (National Institute for R&D in Informatics), researching Post-Quantum Cryptography and simulating Quantum Key Distribution protocols
+- **Studying** DevOps and cloud infrastructure — Docker, Kubernetes, AWS, Terraform — alongside my security work, aiming for roles that bridge both
+- **Participating** in the Security Summer School organized by the ACS Faculty (UPB)
 
 <br>
 
 ## Certifications
 
-| Certification | Issuer | Date |
-|---|---|---|
-| RH124 – Red Hat System Administration I | Red Hat | May 2026 |
-| RH134 – Red Hat System Administration II | Red Hat | May 2026 |
-| CCNA: Introduction to Networks | Cisco | 2025 |
-| CCNA: Switching, Routing, and Wireless Essentials | Cisco | 2025 |
-| Applied Web Application Security (DECAMP Erasmus+ Course) | Metropolia University of Applied Sciences | Aug 2025 |
-| Cyber Security 101 | TryHackMe | 2025 |
-| Python Programming 101 | Cisco | 2025 |
-| First Certificate in English (FCE), B2 | Cambridge | — |
-
-<br>
-
-## Stack
-
-**Languages** (based on project usage)
-<br>
-<img src="https://img.shields.io/badge/Python-ff6fb5?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ff6fb5?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ff6fb5?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-ff6fb5?style=flat-square&logo=postgresql&logoColor=white"/>
-
-**Skills**
-<br>
-<img src="https://img.shields.io/badge/Networking-3a86ff?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-3a86ff?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-3a86ff?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security%20Fundamentals-3a86ff?style=flat-square&logoColor=white"/>
-
-<br><br>
-
-## Activity
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nedelcubianca&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6fb5&icon_color=3a86ff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedelcubianca&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6fb5&text_color=c9d1d9"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=nedelcubianca&hide_border=true&background=0d1117&stroke=ff6fb5&ring=3a86ff&fire=ff6fb5&currStreakLabel=3a86ff"/>
+<img src="https://img.shields.io/badge/RH124-ff6fb5?style=for-the-badge&logo=redhat&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/RH134-ff6fb5?style=for-the-badge&logo=redhat&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/CCNA%3A%20Switching%2C%20Routing%20%26%20Wireless-ff6fb5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/CCNA%3A%20Intro%20to%20Networks-ff6fb5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/Applied%20Web%20App%20Security-ff6fb5?style=for-the-badge&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing%20Security-ff6fb5?style=for-the-badge&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/Cyber%20Security%20101-ff6fb5?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=3a86ff"/>
+<img src="https://img.shields.io/badge/Red%20Teaming%20%26%20Pentesting-ff6fb5?style=for-the-badge&logo=defcamp&logoColor=white&labelColor=3a86ff"/>
 
 </div>
 
 <br>
 
-## Projects
+## Stack
 
-| | |
-|---|---|
-| **[Network Vulnerability Scanner](https://github.com/nedelcubianca)** | Python/asyncio scanner integrating the NVD API for CVE lookups |
-| **[Subscription Tracker](https://github.com/nedelcubianca)** | Spring Boot + H2 application |
-| **Network Traffic Music Composer** | React/FastAPI/Tone.js app sonifying live network traffic — presented at SCSS 2026 |
+**Security**
+<br>
+<img src="https://img.shields.io/badge/Wireshark-3a86ff?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghidra-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Volatility3-3a86ff?style=flat-square&logoColor=white"/>
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-ff6fb5?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ff6fb5?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-ff6fb5?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-ff6fb5?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-ff6fb5?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ff6fb5?style=flat-square&logo=javascript&logoColor=white"/>
+
+**Cloud & DevOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-3a86ff?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-3a86ff?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-3a86ff?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-3a86ff?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-3a86ff?style=flat-square&logo=linux&logoColor=white"/>
 
 <br>
+
+## Writing
+
+CTF write-ups and research notes on [Medium](#).
 
 <br>
 
